@@ -1,6 +1,6 @@
 # Project Key Information
 - Project Name:    Lapra
-- Project Date:   4 June 2020
+- Project Date:   21 August 2020
 - Project No:     03
 - Project Website: ttps://gymnasi.netlify.app/
 
